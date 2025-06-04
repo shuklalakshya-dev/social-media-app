@@ -255,6 +255,7 @@ export default function ProfilePage() {
             <div className="space-y-4">
               <label className="block text-sm font-semibold text-gray-700 items-center space-x-2">
                 <span>📸 Profile Picture</span>
+                // This label is for the file input, not visible but accessible
               </label>
               
               <div className="flex items-center space-x-4">
